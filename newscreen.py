@@ -1,2 +1,2 @@
-def NewScreen():
+def newscreen():
     print("New Screen")
